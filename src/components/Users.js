@@ -128,7 +128,7 @@ export const Users = () =>{
                         />
                     </div>
                     <button className="btn btn-primary btn-block">
-                        {editing ? 'Update' : 'Create'}
+                        {editing ? 'Updates' : 'Create'}
                     </button>
                 </form>
             </div>
